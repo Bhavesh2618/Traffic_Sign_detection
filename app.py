@@ -14,7 +14,7 @@ st.set_page_config(
 )
 st.title("🚦 Intelligent Traffic Sign Recognition System")
 st.write("""
-This application uses a **YOLOv8** model to detect traffic signs in real-time.
+This application uses a **YOLOv11** model to detect traffic signs in real-time.
 Choose your input source from the sidebar to get started.
 """)
 
