@@ -32,8 +32,8 @@ This project is a **Streamlit web application** that uses a trained **YOLOv11** 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<Bhavesh2618>/<Traffic_Sign_detection>.git
-cd <Traffic_Sign_detection>
+git clone https://github.com/Bhavesh2618/Traffic_Sign_detection.git
+cd Traffic_Sign_detection
 ```
 
 ### 2️⃣ Install dependencies
